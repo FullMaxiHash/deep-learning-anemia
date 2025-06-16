@@ -1,5 +1,5 @@
 # **Deep Learning-Based Application for Diagnosing Hematological Syndromes**
-
+Author: Arnuruly Yestay
 This project focuses on developing an application for diagnosing hematological syndromes (KGS) using **Deep Learning** technologies. The goal is to improve medical diagnosis by applying advanced algorithms for disease recognition and prognosis.
 
 ## **Background**
